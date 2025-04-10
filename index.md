@@ -14,3 +14,4 @@ title: Добро пожаловать!
 
 ## Контакты:
 - GitHub: https://github.com/Annait1
+- Страна: Россия
